@@ -140,11 +140,11 @@ Las bases de datos de gráficos generales almacenan nodos y bordes de un gráfic
 
 Esta sección describe los entornos que debe tener, como mínimo. Puede parecer mucho, [pero hay un propósito para cada uno](http://futurice.com/blog/five-environments-you-cannot-develop-without).
 
-- [Local development](#local-development-environment)
-- [Continuous integration](#continuous-integration-environment)
-- [Testing](#testing-environment)
-- [Staging](#staging-environment)
-- [Production](#production-environment)
+- [Entorno de desarrollo local](#entorno-de-desarrollo-local)
+- [Entorno de integración continua](#entorno-de-integración-continua)
+- [Entorno de prueba](#entorno-de-prueba)
+- [Entorno de estadificación](#entorno-de-estadificación)
+- [Entorno de producción](#entorno-de-producción)
 
 ## Entorno de desarrollo local
 
