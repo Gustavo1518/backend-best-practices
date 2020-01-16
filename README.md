@@ -1,11 +1,11 @@
-Backend development best practices
+Mejores prácticas de desarrollo de backend
 ==================================
 
 
 <!-- START doctoc generado TOC por favor mantenga el comentario aquí para permitir la actualización automática ->
 <!-- NO EDITE ESTA SECCIÓN, EN LUGAR RE-RUN doctoc PARA ACTUALIZAR -->
 
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Tabla de contenido**  *generado con: [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Traducciones de este documento](#traducciones-de-este-documento)
 - [N Mandamientos](#n-mandamientos)
